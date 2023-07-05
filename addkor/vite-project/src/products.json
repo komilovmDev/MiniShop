@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone 14 Pro Max",
+        "images": [
+            "https://assets.asaxiy.uz/product/items/desktop/44f683a84163b3523afe57c2e008bc8c2022092116292692242NTcHaV6ojr.png.webp",
+            "https://assets.asaxiy.uz/product/items/desktop/a3f390d88e4c41f2747bfa2f1b5f87db2022092114121356378sGrQ9oVwR7.png.webp",
+            "https://assets.asaxiy.uz/product/items/desktop/d09bf41544a3365a46c9077ebb5e35c32022092116155842430EzLJMtxARH.png.webp",
+            "https://assets.asaxiy.uz/product/items/desktop/a684eceee76fc522773286a895bc84362022092116101993133c7diN60xBs.png.webp"
+        ],
+        "desc": "48MP Main: 24 mm, ƒ/1.78 aperture, second-generation sensor-shift optical image stabilization, seven‑element lens, 100% Focus Pixels"
+    },
+    {
+        "id": 2,
+        "name": "Apple Watch Series 7",
+        "images": [
+            "https://static.sello.uz/unsafe/x900/https://static.sello.uz/fm/20230202/ff8b7ead-2e5a-4dbb-ba59-028c18bfd0f5.JPEG",
+            "https://static.sello.uz/unsafe/x900/https://static.sello.uz/fm/20230202/e24fc7be-9e0f-4efb-9dd8-36bde5133545.JPEG",
+            "https://static.sello.uz/unsafe/x900/https://static.sello.uz/fm/20230202/7e26a5b3-3c7e-4094-81a6-5aa7fddab76b.JPEG"
+        ],
+        "desc": "The Apple Watch Series 7 features a larger always-on Retina display, advanced health monitoring, and a variety of stylish bands."
+    },
+    {
+        "id": 3,
+        "name": "MacBook Pro 2023",
+        "images": [
+            "https://olcha.uz/image/700x700/products/2022-08-12/noutbuk-apple-macbook-pro-16-m1-max-32gpu32gb2tb-serebristyy-98423-0.jpeg",
+            "https://example.com/macbook-pro-2023-image2.png",
+            "https://example.com/macbook-pro-2023-image3.png"
+        ],
+        "desc": "The MacBook Pro 2023 comes with a powerful M-series chip, a stunning Retina display, and an improved Magic Keyboard."
+    }
+]
